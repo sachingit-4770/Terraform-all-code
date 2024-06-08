@@ -1,0 +1,3 @@
+variable "NIC-CARD1" {
+
+}
